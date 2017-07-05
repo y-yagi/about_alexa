@@ -1,4 +1,4 @@
-### 他にも
+## 他にも
 
 * [Echo Look](https://www.amazon.com/Echo-Hands-Free-Camera-Style-Assistant/dp/B0186JAEWK)
 * カメラとフラッシュがついている
