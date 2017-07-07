@@ -1,5 +1,5 @@
-#### Accelerated Mobile Pages
+### Amazon Echo
 
-<small>AMPに対応しているモバイルサイトは"AMP"という文字と⚡(AMPマーク)が表示される</small>
+<img src="resources/img/bnalexa1.png" height=400px>
 
-<img src="resources/img/screenshot_02.png" height=500px>
+※ [Amazon Alexaの基礎知識 ｜ Developers\.IO](http://dev.classmethod.jp/cloud/aws/amazon-alexa-basic-knowledge/) より引用

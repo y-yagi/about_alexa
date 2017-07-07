@@ -1,4 +1,6 @@
-#### 今後の展望
+### Amazon Alexa
 
-* Androidではより"ネイティブアプリ"らしく扱われるようになる
-* 詳細は、[Googleがもうすぐプログレッシブウェブアプリ\(Progressive Web Apps\)をAndroidに本格的に統合 \| TechCrunch Japan](http://jp.techcrunch.com/2017/02/03/20170202google-will-soon-integrate-progressive-web-apps-deeper-into-android/) 参照
+* ただ、音声処理部分もAmazonは公開しており、それを使って自前で色々する、という事は現時点でも可能
+* スマホアプリ用のライブラリ等も提供されており、スマホから使う事も出来る
+* Amazon Alexa対応のスマートウォッチもある
+  * [iMCO CoWatch with Amazon Alexa.](https://www.amazon.com/iMCO-CoWatch-Amazon-Alexa-Black/dp/B01H5YX9HO)

@@ -1,3 +1,5 @@
-#### Accelerated Mobile Pages
+### Amazon Alexa
 
-<img src="resources/img/screenshot_04.png" height=500px>
+<img src="resources/img/bnalexa3.png" height=400px>
+
+※ [Amazon Alexaの基礎知識 ｜ Developers\.IO](http://dev.classmethod.jp/cloud/aws/amazon-alexa-basic-knowledge/) より引用

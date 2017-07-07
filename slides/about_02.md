@@ -1,6 +1,4 @@
-### Accelerated Mobile Pages
+### Amazon Echo
 
-* GoogleとTwitterが合同で開発
-* モバイルでページを高速に表示するための仕様
-* [Accelerated Mobile Pages Project – AMP](https://www.ampproject.org/ja/)
-  * "Building the future web, together."
+* 音声アシスタントデバイス
+* "音声"でやりとりをするIoT機器

@@ -1,7 +1,4 @@
-### 何故表示が速くなるのか
+### Amazon Echo
 
-* 使用出来るHTML・CSS・JavaScriptに制限がある
-  * ページ表示が遅くなるような処理はそもそも使えない
-* Google AMP Cache
-  * ざっくりいうと、ページがGoogleにキャッシュされ、ページの表示する際にそのキャッシュが使われるので速くなる(ページへのアクセスが無い)
-  * ページの更新タイミングについては気をつける必要はある(キャッシュが適切にクリアされてないと、古いコンテンツがユーザに表示される可能性がある)
+* 2016年秋の時点で500万台以上売れている
+  * [Amazon Echo sales reach 5M in two years, research firm says, as Google competitor enters market – GeekWire](https://www.geekwire.com/2016/amazon-echo-sales-reach-5m-two-years-research-firm-says-google-competitor-enters-market/)

@@ -1,5 +1,6 @@
-#### Accelerated Mobile Pages
+### Alexa Skill
 
-* 今のところ速くなるのはGoogleの検索結果だけ
-* ただ、Yahoo Japan、Baidu、Sogouも対応すると宣言している
-  * [Yahoo Japan、バイドゥ、ソゴウがAMP対応に。10億以上のアジアのユーザーに向け、展開。](http://www.seojapan.com/blog/amp-accelerated-mobile-pages-roll-1-billion-people-asia)
+* Skillはamazonから購入出来る
+  * [Amazon\.com: Uber: Alexa Skills](https://www.amazon.com/Uber-Technologies-Inc/dp/B01AYJQ9QK)
+  * [Amazon\.com: Domino's Pizza: Alexa Skills](https://www.amazon.com/Dominos-Pizza-LLC/dp/B01B5G99CC)
+* スマホアプリと同じような感じ
